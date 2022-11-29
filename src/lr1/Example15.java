@@ -20,6 +20,6 @@ public class Example15 {
 
         System.out.println(sloz);
         System.out.println(raz);
-
+        in.close();
     }
 }

@@ -14,6 +14,6 @@ public class Example12 {
 
         year = yearnow - howoldu;
         System.out.println("Вы родились в " + year + " году.");
-
+        in.close();
     }
 }

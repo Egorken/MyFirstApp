@@ -18,7 +18,8 @@ public class Example9 {
         if (dayofmounth>30) {
             System.out.println("Месяц "+mounth +" имеет " +dayofmounth +" день") ;}
             else {
-                System.out.println("Месяц "+mounth +" имеет " +dayofmounth +" дней") ;
-        in.close();}
+            System.out.println("Месяц " + mounth + " имеет " + dayofmounth + " дней");
+        }
+        in.close();
     }
 }

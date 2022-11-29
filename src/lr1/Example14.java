@@ -19,6 +19,6 @@ public class Example14 {
         System.out.println(C);
         System.out.println(A);
         System.out.println(B);
-
+        in.close();
     }
 }

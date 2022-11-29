@@ -20,5 +20,6 @@ public class Example3 {
         if (b>s) {
             System.out.println("От себя пример добавил: b=s+d = " +b);
         }
+
     }
 }

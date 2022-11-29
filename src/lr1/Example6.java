@@ -16,5 +16,6 @@ public class Example6 {
         String FatherName = in.nextLine() + "!";
 
         System.out.println("Привет, " +Familyname  +Name  +FatherName);
+        in.close();
     }
 }

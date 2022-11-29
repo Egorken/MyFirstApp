@@ -17,6 +17,6 @@ public class Example13 {
 
         C = A + B;
         System.out.println("C = " +C);
-
+        in.close();
     }
 }

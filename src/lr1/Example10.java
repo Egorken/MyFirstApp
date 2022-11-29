@@ -16,6 +16,6 @@ public class Example10 {
 
         d = yearnow - you;
         System.out.println("Вам сейчас " +d + " лет");
-
+        in.close();
     }
 }

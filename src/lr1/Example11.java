@@ -17,6 +17,6 @@ public class Example11 {
 
         yoursyears = year - yearY;
         System.out.println(name + ", вам сейчас " + yoursyears + " years!");
-
+        in.close();
     }
 }
