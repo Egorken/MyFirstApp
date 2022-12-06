@@ -13,11 +13,6 @@ public class Example5 {
 
 	int n = x / 1000 ;
 	
-	
-	
-	
-	
-	
 	if (x > 999)
 	{
 		System.out.println(n + " тысяч");

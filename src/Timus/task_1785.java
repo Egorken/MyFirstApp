@@ -28,10 +28,7 @@ public class task_1785 {
         	System.out.print("Zounds");
         } else if (a >= 1000) {
         	System.out.print("Legion");
-        } 
-        	
-        	
-        	
+        }
         out.flush();
     }
 

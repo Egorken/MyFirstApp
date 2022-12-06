@@ -25,7 +25,5 @@ public class Example3 {
 	} else {
 		System.out.println("Число меньше 10!");
 	   }
-	
-	
 	}
 }

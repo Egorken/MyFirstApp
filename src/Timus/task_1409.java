@@ -20,5 +20,4 @@ public class task_1409 {
         out.println(harry + " " + larry);
         out.flush();
     }
-
 }

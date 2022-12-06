@@ -20,5 +20,4 @@ public class task_2012 {
         out.println(result);
         out.flush();
     }
-
 }
