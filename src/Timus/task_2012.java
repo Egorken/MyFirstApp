@@ -15,7 +15,7 @@ public class task_2012 {
         
         int time = difference * 45;
         
-        String result = time <=240 ? "Yes" : "No";	
+        String result = time <=240 ? "YES" : "NO";
         
         out.println(result);
         out.flush();
