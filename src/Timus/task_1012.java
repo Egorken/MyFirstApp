@@ -4,10 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
-
-
 public class task_1012 {
-
     public static void main(String str[]) throws IOException {
         BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));
 

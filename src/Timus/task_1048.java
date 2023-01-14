@@ -7,7 +7,6 @@ import java.util.stream.IntStream;
 
 public class task_1048 {
 
-
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 

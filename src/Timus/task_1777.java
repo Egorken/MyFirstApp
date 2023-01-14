@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import static java.lang.System.*;
-
 public class task_1777 {
 
     public static void main(String[] args) throws IOException {

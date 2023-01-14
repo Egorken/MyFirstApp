@@ -1,7 +1,6 @@
 package Timus;
 
  import java.util.*;
-
  public class task_1880 {
 
         public static void main(String str[]) {

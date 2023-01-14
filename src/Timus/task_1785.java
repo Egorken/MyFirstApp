@@ -1,7 +1,6 @@
 package Timus;
 
 import java.util.Scanner;
-
 public class task_1785 {
     public static void main(String[] args) {
         

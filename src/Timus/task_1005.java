@@ -3,7 +3,6 @@ package Timus;
 import java.util.Scanner;
 
 public class task_1005 {
-
         public static void main(String str[]) {
             Scanner input = new Scanner(System.in);
 

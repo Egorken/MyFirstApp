@@ -15,5 +15,6 @@ public class task_1000 {
 
         out.println(result);
         out.flush();
+
     }
 }

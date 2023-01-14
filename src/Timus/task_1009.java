@@ -3,10 +3,7 @@ package Timus;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-
 public class task_1009 {
-
     static BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));
 
     private static int checkNumber(int n, int radix) {

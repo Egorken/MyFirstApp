@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class task_1196 {
-
     public static void main (String[] str) throws IOException {
         BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));
 

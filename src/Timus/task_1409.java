@@ -2,7 +2,6 @@ package Timus;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
-
 public class task_1409 {
     public static void main(String[] args) {
         

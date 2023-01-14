@@ -13,7 +13,6 @@ public class task_1017 {
 
         System.out.println(generateCases(n)[n][n] - 1);
     }
-
     private static long[][] generateCases(int n) {
         long[][] a = new long[n + 1][n + 1];
         a[0][0] = 1;

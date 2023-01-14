@@ -9,8 +9,6 @@ public class task_2018 {
     private static int mod(int x) {
         return x % 1000000007;
     }
-
-
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
