@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example3;
 
 public class subClass3 extends SuperClass3 {
     private String str2;

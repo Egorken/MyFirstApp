@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example3;
 
 public class example3 {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class example3 {
         String superClassTest1 = myTest1.toString();
         System.out.println(superClassTest1);
 
-        SuperClass3 myTest2 = new  subClass3();
+        SuperClass3 myTest2 = new subClass3();
         String subClassTest0 = myTest2.toString();
         System.out.println(subClassTest0);
 

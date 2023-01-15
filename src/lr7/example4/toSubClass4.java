@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example4;
 
 public class toSubClass4 extends subClass4 {
     toSubClass4 (char char1) {

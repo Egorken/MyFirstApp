@@ -1,6 +1,6 @@
-package lr7;
+package lr7.example1;
 
-public class subClassTest extends SuperClassTest{
+public class subClassTest extends SuperClassTest {
     private String str2;
     private String str3;
     subClassTest(String strEx) {

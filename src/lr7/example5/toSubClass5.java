@@ -1,4 +1,6 @@
-package lr7;
+package lr7.example5;
+
+import lr7.example5.SuperClass5;
 
 public class toSubClass5  extends SuperClass5 {
 

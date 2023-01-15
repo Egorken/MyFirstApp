@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example5;
 
 public class SuperClass5 {
     protected String str1;

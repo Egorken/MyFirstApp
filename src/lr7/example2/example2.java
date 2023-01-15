@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example2;
 
 public class example2 {
     public static void main(String[] args) {

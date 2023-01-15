@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example1;
 
 public class SuperClassTest {
     private String str1;

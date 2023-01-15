@@ -1,4 +1,4 @@
-package lr7;
+package lr7.example4;
 
 public class SuperClass4 {
     public char char1;
