@@ -3,7 +3,6 @@ package lr5;
 public class example4 {
 
     public static void main(String[] args) {
-        //   Scanner id = new Scanner(System.in);
         Example myexample1 = new Example(12, 'A');
         Example myexample2 = new Example(65.1267);
     }
