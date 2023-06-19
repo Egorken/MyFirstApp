@@ -1,4 +1,4 @@
-package lr9.table2.example2;
+package lr9.example2.example2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -52,10 +52,3 @@ public class Main {
         }
     }
 }
-/*
-В программе, где требуется из матрицы вывести столбец с номером, заданным с клавиатуры,
-могут возникать ошибки в следующих случаях:
-–	ввод строки вместо числа;
-–	нет столбца с таким номером.
-
- */

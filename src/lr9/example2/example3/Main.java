@@ -1,4 +1,4 @@
-package lr9.table2.example3;
+package lr9.example2.example3;
 
 import java.util.Arrays;
 import java.util.InputMismatchException;
@@ -31,9 +31,3 @@ public class Main {
         }
     }
 }
-/*
-В программе, вычисляющей сумму элементов типа byte одномерного массива,
- вводимого с клавиатуры, могут возникать ошибки в следующих случаях:
-–	ввод строки вместо числа;
-–	ввод или вычисление значения за границами диапазона типа.
- */
