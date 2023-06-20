@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 public class ArrayDequeAddingToTheEnd {
     public static void main(String[] args) {
         ArrayDeque<Integer> arrayDeque = new ArrayDeque<>();
-        for (int i = 0; i < 11000000; i++) {
+        for (int i = 0; i < 13000000; i++) {
             arrayDeque.add(i);
         }
         System.out.println("Время выполнения операции добавления arrayDeque = " + getRunningTime(arrayDeque));

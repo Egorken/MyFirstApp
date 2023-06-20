@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 public class ArrayDequeRemoveToTheMiddle {
     public static void main(String[] args) {
         ArrayDeque<Integer> arrayDeque = new ArrayDeque<>();
-        for (int i = 0; i < 11000000; i++) {
+        for (int i = 0; i < 13000000; i++) {
             arrayDeque.add(i);
         }
         System.out.println("Время выполнения операции удаления arrayDeque = " + getRunningTime(arrayDeque));
@@ -14,7 +14,7 @@ public class ArrayDequeRemoveToTheMiddle {
         long start = System.currentTimeMillis();
 
         for (int i = 0; i < 1; i++) {
-            list.remove(5500000);
+            list.remove(6500000);
         }
         long end = System.currentTimeMillis();
 
